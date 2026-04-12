@@ -47,3 +47,10 @@ public class RectangleConstructorDemo {
         System.out.println("Area of r3: " + r3.area());
     }
 }
+// ===============OUTPUT================>
+/*Default constructor called
+Parameterized constructor called
+Copy constructor called
+Area of r1: 0
+Area of r2: 50
+Area of r3: 50 */
